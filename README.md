@@ -17,10 +17,10 @@
 <과제 자료>
 날짜 | 수업 내용| 수업명
 ------------ | ------------- | ------------- 
-201909-201912 | Modeling 기법 | [데이터마이닝 수업](https://github.com/Sadnesstt/datamining)
-201909-201912 | ggplot 및 plotly를 활용한 시각화 | [그래픽스 수업](https://github.com/Sadnesstt/kaggle_visualization)
-201909-201912 | 베이지안 통계 추론을 위한 R JAGS 및 MCMC 구현 | [베이지안 특론 수업](https://github.com/Sadnesstt/Bayesian)
-201909-201912 | Reliability 이론 및 minitab 실습  | 생명보험론 수업
+202003-202006 | Modeling 기법 | [데이터마이닝 수업](https://github.com/Sadnesstt/datamining)
+202003-202006 | ggplot 및 plotly를 활용한 시각화 | [그래픽스 수업](https://github.com/Sadnesstt/kaggle_visualization)
+202003-202006 | 베이지안 통계 추론을 위한 R JAGS 및 MCMC 구현 | [베이지안 특론 수업](https://github.com/Sadnesstt/Bayesian)
+202003-202006 | Reliability 이론 및 minitab 실습  | 생명보험론 수업
 201909-201912 | 시계열 데이터 분석 | 시계열 분석 수업
 201909-201912 | optimization 및 integration 통계 방법론 구현 | 계산특론 수업
 201903-201906 | 다양한 통계적 방법론을 이용한 데이터 분석 | 이론통계학 수업
