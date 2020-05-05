@@ -9,7 +9,7 @@
 <프로젝트>
 날짜 | 프로젝트 주제 | 주관
 ------------ | ------------- | ------------- 
-201910-201912 | Travelling Salesperson Problem(TSP) 최적화 구현 | [계산특론 수업]
+201910-201912 | Travelling Salesperson Problem(TSP) 최적화 구현 | [계산특론 수업](https://github.com/Sadnesstt/computational_statistics)
 201810-201812 | Kaggle Filipino income 데이터 시각화 | 빅데이터를 이용한 통계 그래픽스 수업
 201804-201806 | Kaggle Indian liver patients 예측 | 다변량분석및실습 수업
 
