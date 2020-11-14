@@ -32,3 +32,4 @@
 ------------ | ------------- | ------------- 
 202011-|파이썬 및 백엔드 기초|[인프런 가장 빠른 풀스택: 파이썬 백엔드와 웹기술 기본 풀스택 part1](https://github.com/Sadnesstt/python_backend_study)
 202007-202008 | 딥러닝의 기초 및 컴퓨터 비전의 이해 | [cs231n](https://github.com/Sadnesstt/cs231n)
+202010-|백준 코딩테스트 파이썬|[백준](https://github.com/Sadnesstt/baekjoon_python)
