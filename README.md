@@ -31,6 +31,6 @@
 <스터디 및 교육>
 날짜 | 수업 내용| 수업명
 ------------ | ------------- | ------------- 
-202011-|파이썬 및 백엔드 기초|[인프런 가장 빠른 풀스택: 파이썬 백엔드와 웹기술 기본 풀스택 part1](https://github.com/Sadnesstt/python_backend_study)
+202009-202010|SQL로 하는 데이터 분석 & SQL로 하는 데이터 관리 | 코드잇 - 개발자를 위한 SQL 데이터베이스 과정
 202007-202008 | 딥러닝의 기초 및 컴퓨터 비전의 이해 | [cs231n](https://github.com/Sadnesstt/cs231n)
 202010-|백준 코딩테스트 파이썬|[백준](https://github.com/Sadnesstt/baekjoon_python)
