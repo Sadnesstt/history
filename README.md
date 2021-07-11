@@ -10,7 +10,7 @@
 <학교(학부,석사) 프로젝트>
 날짜 | 프로젝트 주제 | 주관
 ------------ | ------------- | ------------- 
-202003-202006 | LoL(League of Legend) 게임 데이터 분석 | [최종 보고서(석사 그래픽스 수업)](9_LOL_project/final.pdf)
+202003-202006 | LoL(League of Legend) 게임 데이터 분석 | [최종 보고서(석사 그래픽스 수업)](https://drive.google.com/file/d/1Cq39070ZmvMVNG833LNOs4TmIIeAo8Jo/view?usp=sharing)
 201910-201912 | Travelling Salesperson Problem(TSP) 최적화 구현 | [최종 보고서(석사 계산특론수업)](https://drive.google.com/open?id=1y1_dq2zAZcAAjuT3BaYtMpo5Tml2s8Ti)
 201810-201812 | Kaggle Filipino income 데이터 시각화 | 학부 빅데이터를 이용한 통계 그래픽스 수업
 201804-201806 | Kaggle Indian liver patients 예측 | 학부 다변량분석및실습 수업
